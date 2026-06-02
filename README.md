@@ -8,9 +8,7 @@ The project is built with SwiftUI, strict MVVM, protocol-oriented dependencies, 
 
 ## Demo
 
-<video src="Demo/MediFinder_Demo.mp4" controls width="320"></video>
-
-[Watch the demo video](Demo/MediFinder_Demo.mp4)
+[Watch the demo video](Demo/MediFinder_Demo.mov)
 
 ## Features
 

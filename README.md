@@ -8,13 +8,7 @@ The project is built with SwiftUI, strict MVVM, protocol-oriented dependencies, 
 
 ## Demo
 
-A short walkthrough video can be attached to the repository or shared as a GitHub release asset.
-
-Recommended recording scope:
-
-- Provider list, search, and submitted search results.
-- Country, city, specialty/category, and provider type filters.
-- Provider detail tabs, contact information, and loading states.
+[Watch the demo video](Demo/MediFinder_Demo.mov)
 
 ## Features
 
